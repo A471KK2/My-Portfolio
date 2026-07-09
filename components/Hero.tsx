@@ -78,7 +78,7 @@ export default function Hero() {
 
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-4xl mx-auto">
 
             <div className="rounded-xl border p-4">
               <h3 className="text-3xl font-bold">1</h3>
@@ -91,13 +91,6 @@ export default function Hero() {
               <h3 className="text-3xl font-bold">3</h3>
               <p className="text-muted-foreground">
                 Projects
-              </p>
-            </div>
-
-            <div className="rounded-xl border p-4">
-              <h3 className="text-3xl font-bold">AI</h3>
-              <p className="text-muted-foreground">
-                Specialization
               </p>
             </div>
 

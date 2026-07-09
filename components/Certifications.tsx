@@ -3,7 +3,7 @@ export default function Certifications() {
     {
       title: "AWS Academy Cloud Virtual Internship",
       issuer: "AWS Academy",
-      link: "https://drive.google.com/drive/u/1/folders/1KwrNdUtlfkTj3-YdLeY7wYbVXDzkscfZ",
+      link: "https://drive.google.com/drive/folders/1KwrNdUtlfkTj3-YdLeY7wYbVXDzkscfZ?usp=sharing",
     },
     {
       title: "Google AI/ML Virtual Internship",
